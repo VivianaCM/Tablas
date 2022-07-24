@@ -1,0 +1,32 @@
+[
+    {
+        "nombre":"Katty",
+        "apellido":"Rios Lopez",
+        "edad":24,
+         "cargo":"Tecnico en Sistemas"
+            
+    },
+
+    {
+        "nombre":"Daniel",
+        "apellido":"Teran Argote",
+        "edad":23,
+        "cargo":"Pasante"
+    },
+
+    {
+        "nombre":"Elmer",
+        "apellido":"Hinojosa",
+        "edad":23,
+        "cargo":"Pasante"
+    },
+
+    {
+        "nombre":"Viviana",
+        "apellido":"Callisaya",
+        "edad":22,
+        "cargo":"Pasante"
+     }
+]
+
+
